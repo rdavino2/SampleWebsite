@@ -1,2 +1,3 @@
 # SampleWebsite
-Sample for Bootcamp 2020
+
+This is the README for the sample website
